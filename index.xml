@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 11 Sep 2021 21:42:46 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog</title>
+      <link>/post/blog/</link>
+      <pubDate>Sat, 11 Sep 2021 21:42:46 +0800</pubDate>
+      
+      <guid>/post/blog/</guid>
+      <description>w伟大挖挖达瓦达瓦达瓦</description>
+    </item>
+    
+  </channel>
+</rss>
